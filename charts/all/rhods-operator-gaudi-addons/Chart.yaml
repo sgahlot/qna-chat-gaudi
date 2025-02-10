@@ -1,4 +1,4 @@
-oapiVersion: v2
+apiVersion: v2
 description: A Helm chart for RHODS (Red Hat OpenShift Data Science) deployment of Gaudi2-related addons
 keywords:
 - rhods-operator-gaudi-addons
